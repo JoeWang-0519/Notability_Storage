@@ -12,8 +12,11 @@
 
 ## Statistics Related
 - Personal Notes on Statistics
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Statistics%20Related">Statistics Related</a></td>
 - Stochastic Operation
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Stochastic%20Operation">Stochastic Operation</a></td>
 - Stochastic Process
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Stochastic%20Process">Stochastic Process</a></td>
 
 ## Machine Learning and Deep Learning
 - Personal Notes on Traditional ML Algos. and Optimization Topics in ML
