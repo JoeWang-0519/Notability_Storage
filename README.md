@@ -39,4 +39,4 @@
 - Tradition Computer Vision
   - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Traditional%20Computer%20Vision">Traditional Computer Vision</a></td>
 - Game Theory
-- <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Game%20Theory">Game Theory</a></td>
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Game%20Theory">Game Theory</a></td>
