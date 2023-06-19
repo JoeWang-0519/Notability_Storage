@@ -11,7 +11,7 @@
   - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Optimal%20Control">Optimal Control</a></td>
 
 ## Statistics Related
-- Personal Notes on Statistics
+- Personal Notes on Statistics Topics like Bootstrap, Linear Regression etc.
   - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Statistics%20Related">Statistics Related</a></td>
 - Stochastic Operation
   - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Stochastic%20Operation">Stochastic Operation</a></td>
@@ -35,5 +35,8 @@
 
 ## Other
 - Database
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Database">Database</a></td>
 - Tradition Computer Vision
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Traditional%20Computer%20Vision">Traditional Computer Vision</a></td>
 - Game Theory
+- <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Game%20Theory">Game Theory</a></td>
