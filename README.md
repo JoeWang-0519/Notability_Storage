@@ -20,10 +20,18 @@
 
 ## Machine Learning and Deep Learning
 - Personal Notes on Traditional ML Algos. and Optimization Topics in ML
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Machine%20Learning%20Related">Machine Learning Related</a></td>
 - Basic Machine Learning Algos.
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Machine%20Learning%20Algo.%20part%201">Machine Learning Part 1</a></td>
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Machine%20Learning%20Algo.%20part%202">Machine Learning Part 2</a></td>
 - Basic Deep Learning Concepts
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Basic%20Neural%20Network">Basic Neural Network</a></td>
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Deep%20Learning%20Intro.">Deep Learning Intro.</a></td>
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Deep%20Learning%20Advanced">Deep Learning Advanced</a></td>
 - Reinforcement Learning
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Reinforcement%20Learning%20Intro.">Reinforcement Learning Intro.</a></td>
 - Generative Models
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Generative%20Model">Generative Model</a></td>
 
 ## Other
 - Database
