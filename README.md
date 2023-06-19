@@ -1,6 +1,7 @@
 # Outline
 ## Optimization Related
-- Discrete Optimization <td align="center"><a href="https://github.com/hkust-vgd/scanobjectnn/blob/master/pointnet2/models/pointnet2_cls_ssg.py">link</a></td>
+- Discrete Optimization
+  - <td align="center"><a href="https://github.com/JoeWang-0519/Notability_Storage/tree/main/Discrete%20Opt.">link</a></td>
 - Convex Optimization
 - Advanced Topics and Detailed Algorithms for Optimization
 - Optimal Control
